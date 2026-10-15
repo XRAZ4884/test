@@ -1,0 +1,8 @@
+{
+  "key.categories.kqders_auction": "KQders Auction",
+  "key.kqders_auction.open": "Open Auction Builder",
+  "key.kqders_auction.toggle": "Start / pause auction timer",
+  "key.kqders_auction.cancel": "Cancel auction (or dismiss result)",
+  "key.kqders_auction.copy": "Copy winner username",
+  "key.kqders_auction.winner": "Open Record Winner screen"
+}

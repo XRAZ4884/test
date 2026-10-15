@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "kqders_auction",
+  "version": "${version}",
+  "name": "KQders Auction",
+  "description": "Auction builder, live overlay, winner recording and history for Minecraft auctions.",
+  "authors": ["KQders"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.kqders.auction.KQdersAuctionClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
